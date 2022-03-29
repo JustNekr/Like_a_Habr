@@ -18529,7 +18529,7 @@ margin-left: 200px;
 .u-tabs:not([class*="u-align-"]),
 .u-accordion:not([class*="u-align-"]),
 .u-repeater-item:not([class*="u-align-"]),
-.u-container-style: {
+.u-container-style {
   text-align: center;
 }
 .u-nav:not([class*="u-align-"]) .u-nav {
